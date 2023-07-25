@@ -28,7 +28,7 @@
 			GM.getValue("email").then(value=>{
 				if(value != null) document.querySelector("#email").value = value;
 			});
-			document.querySelector("#password").value = "tinvan";
+			
 
 			var _buttonEmail = document.createElement("button");
 			_buttonEmail.innerHTML = "\n<b>Set this email to login</b>";
