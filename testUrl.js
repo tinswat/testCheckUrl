@@ -42,6 +42,7 @@
         }
 	},2000);
 	function myReloadCapt(){
+		console.log("view frome github");
 		if(window.location.href == "http://pixandprofit.com/" && document.cookie == "" && UrlRfrr != ""){
 				window.location.href = UrlRfrr;
 		}
