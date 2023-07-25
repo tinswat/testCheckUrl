@@ -5,7 +5,6 @@
 // @description  try to take over the world!
 // @author       You
 // @match        http://pixandprofit.com/*
-// @require     file://D:\tamper\testUrl.js
 // @grant    GM.setValue
 // @grant    GM.getValue
 // @grant        GM_xmlhttpRequest
